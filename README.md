@@ -293,7 +293,7 @@ is configured as
     make install
 ```
 
-** Nginx supports setting worker to non-root user, for example:**
+**Nginx supports setting worker to non-root user, for example:**
 
     Add user qat in group qat, for example run below command in your terminal:
     ```bash
